@@ -38,7 +38,16 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight)
 
+---
+### Top Language
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwind-css" />
+</p>
 
 ### 📫 Connect with me:
 
