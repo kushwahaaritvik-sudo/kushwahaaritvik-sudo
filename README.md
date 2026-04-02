@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm Ritvik Kushwaha
 
-<!--
-**kushwahaaritvik-sudo/kushwahaaritvik-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate **Frontend Developer**
+💻 Skilled in building responsive and user-friendly web applications
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 HTML | CSS | JavaScript
+* ⚛️ Frontend Development
+* 🟢 Node.js
+* ☕ Java
+* 💻 C++
+* 🔄 Full Stack Development
+
+---
+
+### 🧰 Tools & Technologies:
+
+* 🔧 Git & GitHub
+* 💻 VS Code
+* 🌐 Chrome DevTools
+* 🧠 IntelliJ IDEA
+
+---
+
+### 📌 About Me:
+
+* 🔭 Currently working on improving full stack skills
+* 🌱 Learning advanced backend & system design
+* 💡 Love solving real-world problems through code
+
+---
+
+### 📫 Connect with me:
+
+* LinkedIn: https://www.linkedin.com/in/ritvik-kushwaha-612412323
+* Email: [ritvikkushwaha24@gmail.com](mailto:ritvikkushwaha24@gmail.com)
