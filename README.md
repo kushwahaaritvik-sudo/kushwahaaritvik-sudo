@@ -41,13 +41,19 @@
 ---
 ### Top Language
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwind-css" />
-</p>
+## 🚀 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwind-css)
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
+![Full Stack](https://img.shields.io/badge/Full--Stack-Developer-purple?style=for-the-badge)
 
 ### 📫 Connect with me:
 
