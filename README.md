@@ -1,75 +1,75 @@
-<!-- Remove this comment if you want a dark‑mode‑friendly header image -->
-<!-- Replace YOUR-USERNAME with your actual GitHub username -->
-
 <div align="center">
+  <img src="https://vercel.app👋&fontSize=70&animation=fadeIn" />
 
-# 👨‍💻 Hi, I'm Ritvik 😄
-### 🌍 From Lucknow, India · 🌐 Open to remote & intern opportunities
+  <p align="center">
+    <img src="https://herokuapp.com" alt="Typing SVG" />
+  </p>
 
+  <p align="center">
+    <a href="https://linkedin.com/in/ritvik-kushwahaa"><img src="https://shields.io" /></a>
+    <a href="mailto:ritvikkushwaha24@gmail.com"><img src="https://shields.io" /></a>
+    <a href="https://ritvik.dev"><img src="https://shields.io" /></a>
+  </p>
 </div>
 
 ---
 
-### 🧠 About me
-
-- 🎓 Computer Science / Engineering student with a passion for **AI, web development, and problem‑solving**.
-- 🔧 Building small projects in **C++, Java, Python, HTML/CSS, JavaScript**.
-- 💡 Loves learning new tech, building apps, and exploring affiliate marketing ideas.
-
----
-
-### 🛠️ Skills & Tech Stack
-
-| Category        | Technologies / Tools |
-|----------------|----------------------|
-| Languages      | C++, Java, Python, JavaScript, HTML, CSS |
-| Web            | React (optional), Node.js (optional), REST APIs |
-| Tools & Others | Git, GitHub, VS Code, Linux, Docker (optional), etc. |
-
-💡 Tooltip: Keep this section honest and update it as you learn more.
+### 🚀 About Me
+- 🎓 **Engineering Student** with a focus on building scalable web solutions.
+- 💡 Passionate about **AI, Problem Solving**, and exploring the intersection of tech and marketing.
+- 🌍 Based in **Lucknow, India** | Open to **Remote Internships**.
 
 ---
 
-### 📦 Featured Projects
-
-<!-- You can pin 3–6 of your best repos in the GitHub UI; here just describe them -->
-
-- **Mini Student Admission Form (Web)** – A simple frontend form for student data collection.  
-- **DSA & Algorithm Practice Repo** – Solved LeetCode/HackerRank style problems in C++/Java.  
-- **Mini Game or App (e.g., calculator, todo list)** – Built with HTML/CSS/JS.
-
-🔗 Tip: Write good READMEs for each project with purpose, screenshots, and how to run it. [web:5][web:15]
-
----
-
-### 📈 GitHub Stats
-
-[![Ritvik's GitHub Stats][(https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR-USERNAME)
-](https://github.com/kushwahaaritvik-sudo)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)](https://github.com/YOUR-USERNAME)
-
-> Replace `YOUR-USERNAME` with your GitHub handle (e.g., `ritvik-kushwahaa`). [web:15][web:13]
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <!-- Languages -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br>
+  <!-- Tools -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
-### 🔗 Let’s connect
+### 📊 My GitHub Journey
+<div align="center">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+</div>
 
-- 🌐 Portfolio / Website: [ritvik.dev](https://ritvik.dev) *(customize URL)*
-- 💼 LinkedIn: [linkedin.com/in/ritvik-kushwahaa](https://linkedin.com/in/ritvik-kushwahaa)
-- 📧 Email: ritvikkushwaha24@gmail.com
-- 🛒 Affiliate Marketing: [(https://amzn.to/4sbEhFz)) 
-](https://amzn.to/4sbEhFz)
----
-
-### 🎯 What I’m learning now
-
-- 🤖 AI & ML with Python
-- 🚀 Advanced web apps with React/Node
-- 📈 GitHub best practices: clean repos, good READMEs, semantic commits
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
 
 ---
 
-<br>
+### 📂 Featured Projects
+- 🏫 **Student Admission System** - Interactive frontend built with HTML/CSS/JS.
+- 🧩 **DSA Excellence** - A curated collection of 100+ solved problems in C++ and Java.
+- 🛠️ **Mini Apps Suite** - Everyday tools like Calculators and Task Managers.
 
-> *“Code is not just logic, it’s a story.”* — Ritvik
+---
+
+### 🎯 Current Focus
+- 🤖 **Deep Dive:** Mastering AI & Machine Learning models with Python.
+- 🌐 **Web:** Transitioning from static sites to dynamic **React & Node.js** apps.
+- 🛒 **Side Hustle:** Optimizing Affiliate Marketing strategies.
+
+<div align="center">
+  <img src="https://vercel.app" />
+</div>
+
+<br />
+
+<p align="center"> 
+  <img src="https://komarev.com" alt="Views" />
+</p>
