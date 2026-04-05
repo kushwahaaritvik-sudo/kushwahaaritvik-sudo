@@ -57,8 +57,8 @@
 - 🌐 Portfolio / Website: [ritvik.dev](https://ritvik.dev) *(customize URL)*
 - 💼 LinkedIn: [linkedin.com/in/ritvik-kushwahaa](https://linkedin.com/in/ritvik-kushwahaa)
 - 📧 Email: ritvikkushwaha24@gmail.com
-- 🛒 Affiliate Marketing: [Amazon Associates]([https://affiliate-program.amazon.in](https://amzn.to/4sbEhFz)) 
-
+- 🛒 Affiliate Marketing: [(https://amzn.to/4sbEhFz)) 
+](https://amzn.to/4sbEhFz)
 ---
 
 ### 🎯 What I’m learning now
