@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Ritvik</h1>
 <h3 align="center">A Passionate Developer 🚀</h3>
 
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Your Project Name**
-- 🌱 I’m learning **New Technology (e.g., AI, Web3, etc.)**
+- 🔭 I’m currently working on online web store
+- 🌱 I’m learning Generative AI
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Dev / Python / Java**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **ritvikkushwaha24@gmail.com**
 - ⚡ Fun fact: I love coding & coffee ☕
 
 ---
@@ -76,7 +76,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 Completed XYZ Certification
+- 🥇 Completed Full StackCertification
 - ⭐ Contributed to Open Source
 - 🚀 Built 10+ Projects
 
