@@ -1,178 +1,93 @@
 <h1 align="center">Hi 👋, I'm Ritvik</h1>
-
-<h3 align="center">
-  Passionate Web Developer | React Developer | Generative AI Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
-  </a>
-</p>
+<h3 align="center">A Passionate Developer 🚀</h3>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Currently building an **online web store**
-- 🌱 Learning and exploring **Generative AI**
-- 💻 Interested in **Web Development, React, Java, and Python**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, JavaScript, Python, Java, and Git**
-- 🚀 Interested in building scalable and user-friendly applications
-- ⚡ Fun fact: I enjoy coding with a cup of coffee ☕
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on online web store
+- 🌱 I’m learning Generative AI
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Web Dev / Python / Java**
+- 📫 Reach me at **ritvikkushwaha24@gmail.com**
+- ⚡ Fun fact: I love coding & coffee ☕
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp" alt="Programming Languages"/>
-</p>
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" alt="Frontend Technologies"/>
-</p>
-
-### Backend and Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
-</p>
-
-### Tools and Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" alt="Tools and Platforms"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Online Web Store
-
-A responsive e-commerce application with a modern user interface and essential online shopping features.
-
-**Technologies:** React, JavaScript, Node.js, Express, MongoDB
-
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/online-store) · [Live Demo](https://your-live-demo-link.com)
-
----
-
-### 🤖 Generative AI Tool
-
-An AI-based application created to explore the practical use of generative artificial intelligence.
-
-**Technologies:** Python, Generative AI APIs, JavaScript
-
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/ai-tool) · [Live Demo](https://your-live-demo-link.com)
-
----
-
-### 💼 Personal Portfolio
-
-A responsive portfolio website showcasing my skills, projects, experience, and development journey.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/portfolio) · [Live Demo](https://your-live-demo-link.com)
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="GitHub Statistics"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" 
-    alt="GitHub Contribution Snake Animation"
-  />
-</p>
-
----
-
-## 🏆 Highlights
-
-- ✅ Built projects using modern web development technologies
-- 🌐 Developing responsive and user-friendly interfaces
-- 🤖 Exploring Generative AI and its real-world applications
-- 🤝 Interested in open-source collaboration
-- 📚 Continuously improving programming and problem-solving skills
-
-> Add achievements such as certifications, hackathons, or competitive programming ratings here when applicable.
-
----
-
-## 🎯 Current Goals
-
-- 📚 Strengthen my advanced backend development skills
-- 🚀 Build and deploy production-ready applications
-- 🤖 Develop practical projects using Generative AI
-- 🌍 Contribute regularly to open-source projects
-- 💡 Create impactful and accessible digital products
-
----
-
-## 🌐 Connect With Me
-
+## 🌐 Connect with Me
 <p align="left">
-  <a href="mailto:ritvikkushwaha24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://linkedin.com/in/yourprofile" target="blank">LinkedIn</a> |
+<a href="https://twitter.com/yourprofile" target="blank">Twitter</a> |
+<a href="https://portfolio.com" target="blank">Portfolio</a>
 </p>
 
 ---
 
-## 💡 Developer Quote
+## 🚀 Tech Stack
 
-> “Great software is built by solving real problems with simple and thoughtful solutions.”
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code)
 
 ---
 
+## 📂 Projects
+
+### 🔹 Project 1: Awesome App
+- 📝 Description: Short description of your project
+- ⚙️ Tech Used: React, Node.js, MongoDB
+- 🔗 Live Demo: [https://yourlink.com](https://yourlink.com)
+- 📂 Repo: [https://github.com/yourusername/project1](https://github.com/yourusername/project1)
+
+---
+
+### 🔹 Project 2: AI Tool
+- 📝 Description: AI-based project description
+- ⚙️ Tech Used: Python, TensorFlow
+- 🔗 Live Demo: [https://yourlink.com](https://yourlink.com)
+- 📂 Repo: [https://github.com/yourusername/project2](https://github.com/yourusername/project2)
+
+---
+
+### 🔹 Project 3: Portfolio Website
+- 📝 Description: Personal portfolio site
+- ⚙️ Tech Used: HTML, CSS, JS
+- 🔗 Live Demo: [https://yourlink.com](https://yourlink.com)
+- 📂 Repo: [https://github.com/yourusername/project3](https://github.com/yourusername/project3)
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
 </p>
 
-<p align="center">
-  ⭐ From <a href="https://github.com/YOUR_GITHUB_USERNAME">Ritvik</a>
-</p>
+---
+
+## 🏆 Achievements
+- 🥇 Completed Full StackCertification
+- ⭐ Contributed to Open Source
+- 🚀 Built 10+ Projects
+
+---
+
+## 🎯 Goals
+- 📚 Learn Advanced Backend
+- 🌍 Contribute to Open Source
+- 💡 Build impactful products
+
+---
+
+⭐️ From [YourUsername](https://github.com/yourusername)
+thos is my  github progile make it more professonal add some more fetures
